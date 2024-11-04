@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**axelhuguet33/axelhuguet33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Axel**, formerly in medical devices 👨‍⚕️ but now diving deep into **web & mobile development** 🌐. 
+Currently, I'm **growing my skills at Epitech** 📚 and always on the lookout for exciting new challenges 🚀.
 
-Here are some ideas to get you started:
+Here are some of my projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐦 **Hackatweet**🐦 - A Twitter-like platform where you can share a positive message, and discover other users who have used the same hashtags.
+
+💻 **Concept 360** 📲 - A **website** for specialists to manage their patients, exercises, and programs, and a **mobile app** for patients to access their personalized programs.
+
+📰 **Job Board** 📰 - web application for a site with job offers
+
+Happy to connect, collaborate, or just chat about tech! 😊
+
+### 🌐 Find me online:
+- [LinkedIn](www.linkedin.com/in/axel-huguet)
