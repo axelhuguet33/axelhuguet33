@@ -14,8 +14,11 @@ Here are some of my projects:
     - [Backend](https://github.com/mrvalbass/concept360-backend)
     - [Frontend Mobile](https://github.com/mrvalbass/concept360-frontend-mobile)
 
-📰 **Job Board** 📰 - web application for a site with job offers
-    - [Job Board Repo](https://github.com/yanamlnk/job-board)
+📰 **Job Board** 📰 - Web application for a site with job offers
+    - [Repo](https://github.com/yanamlnk/job-board)
+    
+🌍 **UrgencePrevoyance** 🌍 - A natural disaster preparedness website for the Nice metropolitan area, created during a Hackathon.
+    - [Repo](https://github.com/StevenMarco/UrgencePrevoyance)
 
 ### 🌐 Find me online:
 - [LinkedIn](www.linkedin.com/in/axel-huguet)
