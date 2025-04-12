@@ -41,9 +41,9 @@ Currently, I'm **growing my skills at Epitech** 📚 and always on the lookout f
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– [Backend](https://github.com/axelhuguet33/hackatweet-back)
 
 💻 **Concept 360** – A **website** for specialists to manage their patients, exercises, and programs, and a **mobile app** for patients to access their personalized programs.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– [Frontend Web](https://github.com/mrvalbass/concept360-frontend-web)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– [Web Frontend](https://github.com/mrvalbass/concept360-frontend-web)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– [Backend](https://github.com/mrvalbass/concept360-backend)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– [Frontend Mobile](https://github.com/mrvalbass/concept360-frontend-mobile)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– [Mobile Frontend](https://github.com/mrvalbass/concept360-frontend-mobile)
 
 ---
 
